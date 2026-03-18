@@ -17,8 +17,8 @@ Both approaches will be evaluated and compared on the same dataset to determine 
 | Name                     | NIM       | GitHub Username |
 | ------------------------ | --------- | --------------- |
 | Tanty Widiyastuti        | 123450094 | tantywidiyastuti|
-| Mayada                   | 121450145 | -               |
-| Adisty Syawalda Ariyanto | 121450136 | -               |
+| Mayada                   | 121450145 |                 |
+| Adisty Syawalda Ariyanto | 121450136 | adistyS         |
 
 ---
 
