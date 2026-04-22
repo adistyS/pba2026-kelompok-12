@@ -8,7 +8,7 @@ This project aims to compare the performance of **Machine Learning (ML)** and **
 
 Machine Learning models will be implemented using **PyCaret AutoML**, while the Deep Learning model will be implemented using **PyTorch**.
 
-Both approaches will be evaluated and compared on the same dataset to determine which method performs better for the selected text classification task.
+Both approaches will be evaluated and compared on the same dataset to determine which method performs better for the selected text classification task. Additionally, this study will analyze key performance metrics such as accuracy, precision, recall, and F1-score, as well as computational efficiency and training time, to provide a comprehensive understanding of the strengths and limitations of each approach. Furthermore, the project will explore how different preprocessing techniques and feature representations influence the performance of each model, ensuring that the comparison is fair, robust, and insightful.
 
 ---
 
@@ -41,6 +41,8 @@ The objectives of this project are:
 * Compare the performance between ML and DL models
 * Deploy interactive demos using **Hugging Face Spaces**
 * Publish a scientific report in **ArXiv format**
+
+This additional objective emphasizes that the project not only focuses on implementation but also on in-depth analysis of the results.
 
 ---
 
@@ -89,6 +91,8 @@ Examples of algorithms evaluated:
 * Random Forest
 * Support Vector Machine
 * Gradient Boosting
+
+Additionally, hyperparameter tuning and cross-validation will be applied to further optimize model performance and ensure more reliable and generalizable results.
 
 ---
 
